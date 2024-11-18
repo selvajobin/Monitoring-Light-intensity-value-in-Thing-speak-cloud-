@@ -1,5 +1,5 @@
-# NAME : JEEVAPRIYA R
-# REG. NO.:212222220018
+# NAME : SELVA JOBIN S
+# REG. NO.:212223220102
 # Monitoring-Light-intensity-value-in-Thing-speak-cloud
 # Uploading LDR sensor data in Thing Speak cloud
 
